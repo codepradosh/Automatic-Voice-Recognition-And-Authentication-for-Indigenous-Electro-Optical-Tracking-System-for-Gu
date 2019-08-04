@@ -19,7 +19,35 @@ Step 3:Adding,Deleting and authenticating an user in the GUI.
 
 
 Screen Recording:
+
+
+
 PART:1
-![](Screen Recording/EOTS.mp4)
+EOTS
+
+
+PART:2
+packages
+
+
+PART:3
+Recognizing Atul & Nikita
+
+
+PART:4
+Crosschecking
+
+
+
+PART : 5
+trained model
+
+
+PART:5
+
+
+
+
+
 
 
