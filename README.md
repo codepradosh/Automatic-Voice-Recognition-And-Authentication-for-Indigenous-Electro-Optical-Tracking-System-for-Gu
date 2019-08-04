@@ -43,7 +43,6 @@ PART : 5
 trained model
 
 
-PART:5
 
 
 
