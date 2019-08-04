@@ -39,7 +39,7 @@ Crosschecking
 
 
 
-PART : 5
+PART:5
 trained model
 
 
