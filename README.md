@@ -18,3 +18,8 @@ Step 2:Taking input from an audio file and converting it into text.
 Step 3:Adding,Deleting and authenticating an user in the GUI.
 
 
+Screen Recording:
+PART:1
+![]
+
+
